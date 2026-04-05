@@ -4,12 +4,6 @@ A modern fintech dashboard built with React and Tailwind CSS to track income, ex
 
 ---
 
-## 🚀 Live Demo
-
-👉 https://your-vercel-link.vercel.app
-
----
-
 ## 📌 Features
 
 * 🔐 Login system (UI-based)
